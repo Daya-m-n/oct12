@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[t1]]>
+    </line>
+    <line>
+      <![CDATA[t1]]>
+    </line>
+    <line>
+      <![CDATA[t1]]>
+    </line>
+    <line>
+      <![CDATA[t1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-12T17:12:45 IST" name="Suite" finished-at="2021-10-12T17:12:45 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2021-10-12T17:12:45 IST" name="Test" finished-at="2021-10-12T17:12:45 IST" duration-ms="96">
+      <class name="demo.T4">
+        <test-method signature="Test1()[pri:0, instance:demo.T4@7690781]" started-at="2021-10-12T17:12:45 IST" name="Test1" finished-at="2021-10-12T17:12:45 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[t1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- demo.T4 -->
+      <class name="demo.T3">
+        <test-method signature="Test1()[pri:0, instance:demo.T3@77eca502]" started-at="2021-10-12T17:12:45 IST" name="Test1" finished-at="2021-10-12T17:12:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[t1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- demo.T3 -->
+      <class name="demo.T2">
+        <test-method signature="Test1()[pri:0, instance:demo.T2@26275bef]" started-at="2021-10-12T17:12:45 IST" name="Test1" finished-at="2021-10-12T17:12:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[t1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- demo.T2 -->
+      <class name="demo.T01">
+        <test-method signature="Test1()[pri:0, instance:demo.T01@2beee7ff]" started-at="2021-10-12T17:12:45 IST" name="Test1" finished-at="2021-10-12T17:12:45 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[t1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- demo.T01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
